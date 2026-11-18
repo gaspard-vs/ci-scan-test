@@ -1,0 +1,3 @@
+config.properties:generic-api-key:3
+/scan/repo/config.properties:generic-api-key:3
+repo/config.properties:generic-api-key:3

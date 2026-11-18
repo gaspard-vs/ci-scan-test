@@ -1,0 +1,3 @@
+# Fixture: settings that tell Gitleaks to skip all files.
+[allowlist]
+paths = [".*"]
