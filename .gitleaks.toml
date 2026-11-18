@@ -1,0 +1,3 @@
+# Test: settings that tell Gitleaks to skip all files. They must have no effect.
+[allowlist]
+paths = [".*"]
